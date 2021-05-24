@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://underfarm.github.io"
 
 defaultContentLanguage = "en"
 
@@ -40,12 +40,6 @@ theme = "ublogger"
       # uBlogger DELETED | 0.2.0 replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
-
-  [params.page.code]
-      # whether to show the copy button of the code block
-      copy = true
-      # the maximum n
-      maxShownLines = 10 
 
 [menu]
   [[menu.main]]
