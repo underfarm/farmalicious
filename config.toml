@@ -7,7 +7,7 @@ languageCode = "en"
 title = "The Daily Farm"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "uBlogger"
+theme = "ublogger"
 
 [params]
   # uBlogger theme version
